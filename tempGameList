@@ -1,4 +1,6 @@
-{
-name: test,
-desc: 123123123
-}
+[
+  {
+    name: test,
+    desc: 123123123
+  }
+]
