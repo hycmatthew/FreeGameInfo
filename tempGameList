@@ -1,6 +1,8 @@
 [
   {
-    "name": "test",
-    "desc": "123123123"
+    "name": "Cyberpunk 2077",
+    "desc": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。"
+    "img_url" "https://steamcdn-a.akamaihd.net/steam/apps/1091500/header_tchinese.jpg?t=1603819555"
+    "url" = "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
   }
 ]
