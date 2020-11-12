@@ -7,7 +7,9 @@
     "descSC": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。",
     "descTC": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。",
     "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/header_tchinese.jpg?t=1603819555",
-    "gamePath": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathEN": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathSC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathTC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
     "startDate": "1-1-2020",
     "endDate": "1-1-2021"
   },
@@ -19,7 +21,9 @@
     "descSC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
     "descTC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
     "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1604621596",
-    "gamePath": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathEN": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathSC": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathTC": "https://store.steampowered.com/app/570/Dota_2/",
     "startDate": "1-1-2020",
     "endDate": "1-1-2099"
   }
