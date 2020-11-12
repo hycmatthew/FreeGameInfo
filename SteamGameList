@@ -7,7 +7,9 @@
     "descSC": "《Dungeons 3》是广受欢迎的《Dungeons》战略游戏系列最新作。建造你自己的地下城、召募怪物，设置精密的陷阱。在包罗万象的故事战役中征服辽阔的地上世界。",
     "descTC": "《Dungeons 3》是廣受歡迎的《Dungeons》戰略遊戲系列最新作。建造你自己的地下城、召募怪物，設置精密的陷阱。在包羅萬象的故事戰役中征服遼闊的地上世界。",
     "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/header_tchinese.jpg?t=1603819555",
-    "gamePath": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathEN": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathSC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "gamePathTC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
     "startDate": "1-1-2020",
     "endDate": "1-1-2021"
   },
@@ -19,7 +21,9 @@
     "descSC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
     "descTC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
     "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1604621596",
-    "gamePath": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathEN": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathSC": "https://store.steampowered.com/app/570/Dota_2/",
+    "gamePathTC": "https://store.steampowered.com/app/570/Dota_2/",
     "startDate": "1-1-2020",
     "endDate": "1-1-2099"
   }
