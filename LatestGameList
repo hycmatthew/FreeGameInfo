@@ -1,30 +1,16 @@
 [
   {
-    "nameEN": "Cyberpunk 2077",
-    "nameSC": "Cyberpunk 2077",
-    "nameTC": "Cyberpunk 2077",
-    "descEN": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。",
-    "descSC": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。",
-    "descTC": "動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。",
+    "nameEN": "《The Textorcist: The Story of Ray Bibbia》",
+    "nameSC": "《The Textorcist: The Story of Ray Bibbia》",
+    "nameTC": "《The Textorcist: The Story of Ray Bibbia》",
+    "descEN": "Get ready for an electrifying mix between bullet hell and typing game! Dodge bullets while typing exorcisms: turn on both sides of your brain and jump into the adventure of Ray Bibbia, a private exorcist who's going to face the threats of a demonic outbreak!",
+    "descSC": "准备好迎接子弹地狱和打字输入游戏的刺激混合吧！一边躲着子弹一边打字驱魔！同时启动脑部的相对，与私家驱魔师Ray Bibbia一起冒险！你将面对恶魔肆虐的威胁！",
+    "descTC": "準備好迎接子彈地獄和打字輸入遊戲的刺激混合吧！一邊躲子彈一邊打字驅魔！同時啟動腦部的兩側，與私家驅魔師 Ray Bibbia 一起冒險！你將面對惡魔肆虐的威脅！",
     "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/header_tchinese.jpg?t=1603819555",
-    "gamePathEN": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
-    "gamePathSC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
-    "gamePathTC": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
-    "startDate": "1-1-2020",
-    "endDate": "1-1-2021"
-  },
-  {
-    "nameEN": "Dota 2",
-    "nameSC": "Dota 2",
-    "nameTC": "Dota 2",
-    "descEN": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
-    "descSC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
-    "descTC": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
-    "imagePath": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1604621596",
-    "gamePathEN": "https://store.steampowered.com/app/570/Dota_2/",
-    "gamePathSC": "https://store.steampowered.com/app/570/Dota_2/",
-    "gamePathTC": "https://store.steampowered.com/app/570/Dota_2/",
-    "startDate": "1-1-2020",
-    "endDate": "1-1-2099"
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/the-textorcist/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/the-textorcist/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/the-textorcist/home",
+    "startDate": "13-11-2020",
+    "endDate": "20-11-2020"
   }
 ]
