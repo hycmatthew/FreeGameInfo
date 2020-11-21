@@ -12,5 +12,19 @@
     "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/the-textorcist/home",
     "startDate": "13-11-2020",
     "endDate": "20-11-2020"
+  },
+  {
+    "nameEN": "《Bus Sim 18 Editor》",
+    "nameSC": "《Bus Sim 18 Editor》",
+    "nameTC": "《Bus Sim 18 Editor》",
+    "descEN": "Let your imagination run wild! Download the Bus Simulator 18 Mod Kit and create routes, build your own buses, design bus liveries, create new maps and share them with the community via Steam Workshop. We can’t wait to see the buses and cities you’ll create.",
+    "descSC": "让想象力自由驰骋！ 下载Bus Simulator 18 Mod Kit并创建路线，构建自己的公共汽车，设计公共汽车装备，创建新地图并通过Steam Workshop与社区共享。 我们迫不及待想看到您要创建的巴士和城市。",
+    "descTC": "讓想像力自由馳騁！ 下載Bus Simulator 18 Mod Kit並創建路線，構建自己的公共汽車，設計公共汽車裝備，創建新地圖並通過Steam Workshop與社區共享。 我們迫不及待想看到您要創建的巴士和城市。",
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fbussim18%2F1920x983-1-1920x983-159e4cdd01ebe0d0b284c8ecdf3f860df4e14dbc.jpg?h=480&resize=1&w=854",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/bus-sim-18/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/bus-sim-18/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/bus-sim-18/home",
+    "startDate": "21-11-2020",
+    "endDate": "27-11-2020"
   }
 ]
