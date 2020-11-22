@@ -43,5 +43,20 @@
     "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/bus-sim-18/home",
     "startDate": "21-11-2020",
     "endDate": "27-11-2020"
+  },
+  {
+    "nameEN": "Sludge Life",
+    "nameSC": "Sludge Life",
+    "nameTC": "Sludge Life",
+    "descEN": "SLUDGE LIFE is a first-person / open-world / vandalism-centric stroll through a polluted island full of cranky idiots and a vibe so thick you can taste it. Play as upcoming tagger GHOST set on staking their claim amongst the graffiti elite.",
+    "descSC": "《SLUDGE LIFE》是一款第一人称开放世界街头破坏艺术类游戏，你将在一个充满了各种坏脾气傻瓜的、受污染的岛上漫游，好好体验浓郁的、不一样的气氛。扮演 GHOST，一位新手涂鸦人，成为小岛上涂鸦精英的一员，打出自己的名声。",
+    "descTC": "《SLUDGE LIFE》是一款第一人稱開放世界街頭破壞藝術類游戲，你將在一個充滿了各種壞脾氣傻瓜的、受污染的島上漫遊，好好體驗濃郁的、不一樣的氣氛。扮演 GHOST，一位新手塗鴉人，成為小島上塗鴉精英的一員，打出自己的名聲。",
+    "platform": "Epic",
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsludge-life%2Fhome%2FEGS_SLUDGELIFE_TerriVellmannDoseone_S3-1360x766-1105cf4796e1a06b09df99ad90ad34baa68e03f7.jpg?h=480&resize=1&w=854",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/sludge-life/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/sludge-life/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/sludge-life/home",
+    "startDate": "21-11-2020",
+    "endDate": "28-5-2021"
   }
 ]
