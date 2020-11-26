@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "nameEN": "Blackout Z: Slaughterhouse Edition",
+    "nameSC": "Blackout Z: Slaughterhouse Edition",
+    "nameTC": "Blackout Z: Slaughterhouse Edition",
+    "descEN": "Blackout Z: Slaughterhouse edition is an addictive fast paced top down shooter game. Slaughter tons of zombies and try to avoid sharp saws while the battery of your flashlight is slowly draining.",
+    "descSC": "《Blackout Z: Slaughterhouse Edition》是一款令人上瘾的快节奏自上而下射击游戏。 杀死大量的僵尸，并在手电筒的电池缓慢耗尽时尽量避免使用锋利的锯子。",
+    "descTC": "《Blackout Z: Slaughterhouse Edition》是一款令人上癮的快節奏自上而下射擊遊戲。 殺死大量的殭屍，並在手電筒的電池緩慢耗盡時盡量避免使用鋒利的鋸子。",
+    "platform": "Steam",
+    "imagePath": "https://cdn.cloudflare.steamstatic.com/steam/apps/729660/header.jpg?t=1606324713",
+    "gamePathEN": "https://store.steampowered.com/app/729660/Blackout_Z_Slaughterhouse_Edition/",
+    "gamePathSC": "https://store.steampowered.com/app/729660/Blackout_Z_Slaughterhouse_Edition/",
+    "gamePathTC": "https://store.steampowered.com/app/729660/Blackout_Z_Slaughterhouse_Edition/",
+    "startDate": "26-11-2020",
+    "endDate": "5-1-2021"
+  }
+]
