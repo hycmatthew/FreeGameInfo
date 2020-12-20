@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《The Long Dark》",
-    "nameSC": "《The Long Dark》",
-    "nameTC": "《The Long Dark》",
-    "descEN": "A thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. Only you, the cold, and all the threats Mother Nature can muster.",
-    "descSC": "《The Long Dark》是一款引人深思的探索生存类游戏。在游戏中，玩家需要在地磁灾难之后探索巨大的荒野冰原，他们必须独立思考，找到出路。游戏中只有你、严寒和大自然中的所有残酷环境。",
-    "descTC": "這是款需要深思熟慮的探索生存遊戲。背景設定在發生地磁災難後，挑戰單人玩家如何應對探索廣闊的酷寒野地時的生存挑戰。只有你、酷寒的天氣，以及所有大自然的威脅。",
+    "nameEN": "《Defense Grid: The Awakening》",
+    "nameSC": "《Defense Grid: The Awakening》",
+    "nameTC": "《Defense Grid: The Awakening》",
+    "descEN": "Defense Grid: The Awakening is the ultimate tower defense game that appeals to players of all skill levels. A horde of enemies is invading, and it's up to the player to stop them by strategically building defensive towers around their base.",
+    "descSC": "无论你是塔防小白，还是塔防大佬，《Defense Grid: The Awakening》这款终极塔防游戏都能吸引到你。一波敌人正在逼近，玩家们要战略性地在基地附近修筑防御塔，阻止敌人的脚步。",
+    "descTC": "《Defense Grid: The Awakening》是款極致的守塔遊戲，吸引各等級的玩家。敵人蜂擁而入，玩家須有策略地在基地建造防禦塔，以阻止敵人進攻。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-00-1920x1080-231d3328f957.jpg?h=480&resize=1&w=854,
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/the-long-dark/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/the-long-dark/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/the-long-dark/home",
-    "startDate": "20-12-2020",
-    "endDate": "21-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-defensegridtheawakening-hiddenpathentertainment-g1a-05-1920x1080-080107294.jpg?h=480&resize=1&w=854,
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/defense-grid/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/defense-grid/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/defense-grid/home",
+    "startDate": "21-12-2020",
+    "endDate": "22-12-2020"
   },
   {
     "nameEN": "Sludge Life",
