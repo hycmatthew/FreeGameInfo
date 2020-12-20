@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Oddworld: New 'n' Tasty》",
-    "nameSC": "《Oddworld: New 'n' Tasty》",
-    "nameTC": "《Oddworld: New 'n' Tasty》",
-    "descEN": "Explore ancient ruins, dodge carnivorous beasts and avoid trigger-happy guards as Abe, the original Oddworld hero in this lovingly recrafted, built from the ground-up and totally recooked take on the classic adventure Oddworld: Abe's Oddysee.",
-    "descSC": "探索古代遗迹、躲开食肉怪兽并避开动不动就开枪的守卫，原《Oddworld》里的主人公 Abe 在这款完全重新精心打造的《Oddworld: Abe's Oddysee》里再次开启经典的探险旅程。",
-    "descTC": "探索古老的廢墟，閃躲食人野獸並避開愛亂開槍的守衛。Abe 這位《Oddworld》的原創英雄，將在重新打造並徹底升級自《Oddworld: Abe's Oddysee》的迷人世界中繼續偉大的冒險。",
+    "nameEN": "《The Long Dark》",
+    "nameSC": "《The Long Dark》",
+    "nameTC": "《The Long Dark》",
+    "descEN": "A thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. Only you, the cold, and all the threats Mother Nature can muster.",
+    "descSC": "《The Long Dark》是一款引人深思的探索生存类游戏。在游戏中，玩家需要在地磁灾难之后探索巨大的荒野冰原，他们必须独立思考，找到出路。游戏中只有你、严寒和大自然中的所有残酷环境。",
+    "descTC": "這是款需要深思熟慮的探索生存遊戲。背景設定在發生地磁災難後，挑戰單人玩家如何應對探索廣闊的酷寒野地時的生存挑戰。只有你、酷寒的天氣，以及所有大自然的威脅。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-oddworldnewntasty-justaddwater-g1a-00-1920x1080-977877f59d8c.jpg?h=480&resize=1&w=854",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/oddworld-new-n-tasty/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/oddworld-new-n-tasty/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/oddworld-new-n-tasty/home",
-    "startDate": "19-12-2020",
-    "endDate": "20-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-g1a-00-1920x1080-231d3328f957.jpg?h=480&resize=1&w=854,
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/the-long-dark/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/the-long-dark/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/the-long-dark/home",
+    "startDate": "20-12-2020",
+    "endDate": "21-12-2020"
   },
   {
     "nameEN": "Sludge Life",
