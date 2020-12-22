@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Defense Grid: The Awakening》",
-    "nameSC": "《Defense Grid: The Awakening》",
-    "nameTC": "《Defense Grid: The Awakening》",
-    "descEN": "Defense Grid: The Awakening is the ultimate tower defense game that appeals to players of all skill levels. A horde of enemies is invading, and it's up to the player to stop them by strategically building defensive towers around their base.",
-    "descSC": "无论你是塔防小白，还是塔防大佬，《Defense Grid: The Awakening》这款终极塔防游戏都能吸引到你。一波敌人正在逼近，玩家们要战略性地在基地附近修筑防御塔，阻止敌人的脚步。",
-    "descTC": "《Defense Grid: The Awakening》是款極致的守塔遊戲，吸引各等級的玩家。敵人蜂擁而入，玩家須有策略地在基地建造防禦塔，以阻止敵人進攻。",
+    "nameEN": "《Alien: Isolation》",
+    "nameSC": "《Alien: Isolation》",
+    "nameTC": "《Alien: Isolation》",
+    "descEN": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger... Created using the CATHODE™ engine.",
+    "descSC": "在《Alien: Isolation》这款以持续恐惧和致命危险气氛为背景的生存恐怖游戏中，发掘恐惧的真正意义。 使用 CATHODE™ 引擎打造。",
+    "descTC": "《Alien: Isolation》是款恐怖生存遊戲，充滿提心吊膽的氛圍和致命的危險。歡迎來探索恐懼的真實本質。 本遊戲使用 CATHODE™ 引擎創作。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-defensegridtheawakening-hiddenpathentertainment-g1a-05-1920x1080-080107294.jpg?h=480&resize=1&w=854,
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/defense-grid/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/defense-grid/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/defense-grid/home",
-    "startDate": "21-12-2020",
-    "endDate": "22-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-01-1920x1080-b65e51b6fb2e.jpg?h=480&resize=1&w=854",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/alien-isolation/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/alien-isolation/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/alien-isolation/home",
+    "startDate": "22-12-2020",
+    "endDate": "23-12-2020"
   },
   {
     "nameEN": "Sludge Life",
