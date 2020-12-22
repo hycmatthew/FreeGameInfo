@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Alien: Isolation》",
-    "nameSC": "《Alien: Isolation》",
-    "nameTC": "《Alien: Isolation》",
-    "descEN": "Discover the true meaning of fear in Alien: Isolation, a survival horror set in an atmosphere of constant dread and mortal danger... Created using the CATHODE™ engine.",
-    "descSC": "在《Alien: Isolation》这款以持续恐惧和致命危险气氛为背景的生存恐怖游戏中，发掘恐惧的真正意义。 使用 CATHODE™ 引擎打造。",
-    "descTC": "《Alien: Isolation》是款恐怖生存遊戲，充滿提心吊膽的氛圍和致命的危險。歡迎來探索恐懼的真實本質。 本遊戲使用 CATHODE™ 引擎創作。",
+    "nameEN": "Metro: 2033 Redux",
+    "nameSC": "Metro: 2033 Redux",
+    "nameTC": "Metro: 2033 Redux",
+    "descEN": "In 2013, the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the earth’s surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age.",
+    "descSC": "2013年，世界已经崩坏，物种灭绝，几乎所有人类都被消灭，地球表面仅剩一片有毒荒原。一些幸存者躲藏在莫斯科地底深处避难，人类的文明进入一个新的黑暗时代。",
+    "descTC": "在 2013 年，世界已被末日給摧毀，幾乎所有人類都被消滅，地球表面僅剩一片有毒荒原。一小群倖存者躲藏在莫斯科地底深處，人類的文明也進入了新的黑暗時代。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-01-1920x1080-b65e51b6fb2e.jpg?h=480&resize=1&w=854",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/alien-isolation/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/alien-isolation/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/alien-isolation/home",
-    "startDate": "22-12-2020",
-    "endDate": "23-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fpetunia%2Fhome%2FM2033_Carousel_01-2580x1450-0f3adddf2d036737596bb3542bd07e49a3502bb0.jpg?h=480&resize=1&w=854",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/metro-2033-redux/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/metro-2033-redux/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/metro-2033-redux/home",
+    "startDate": "23-12-2020",
+    "endDate": "24-12-2020"
   },
   {
     "nameEN": "Sludge Life",
