@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "Metro: 2033 Redux",
-    "nameSC": "Metro: 2033 Redux",
-    "nameTC": "Metro: 2033 Redux",
-    "descEN": "In 2013, the world was devastated by an apocalyptic event, annihilating almost all mankind and turning the earth’s surface into a poisonous wasteland. A handful of survivors took refuge in the depths of the Moscow underground, and human civilization entered a new Dark Age.",
-    "descSC": "2013年，世界已经崩坏，物种灭绝，几乎所有人类都被消灭，地球表面仅剩一片有毒荒原。一些幸存者躲藏在莫斯科地底深处避难，人类的文明进入一个新的黑暗时代。",
-    "descTC": "在 2013 年，世界已被末日給摧毀，幾乎所有人類都被消滅，地球表面僅剩一片有毒荒原。一小群倖存者躲藏在莫斯科地底深處，人類的文明也進入了新的黑暗時代。",
+    "nameEN": "《Tropico 5》",
+    "nameSC": "《Tropico 5》",
+    "nameTC": "《Tropico 5》",
+    "descEN": "Return to the remote island nation of Tropico in the next installment of the critically acclaimed and hugely popular ‘dictator sim’ series. Expand your Dynasty’s reign from the early colonial period to beyond the 21st Century.",
+    "descSC": "在大受好评并广受欢迎的 "模拟独裁者" 系列的下一作中，重回偏远岛国 Tropico。扩张你的王朝的统治，从殖民时期早期到 21 世纪及之后。",
+    "descTC": "重溫備受讚譽且廣受喜愛的獨裁者模擬系列，擔任天堂島（Tropico）新一任的統治者。從早期的殖民時期到 21 世紀，持續擴張你的王朝統治。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fpetunia%2Fhome%2FM2033_Carousel_01-2580x1450-0f3adddf2d036737596bb3542bd07e49a3502bb0.jpg?h=480&resize=1&w=854",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/metro-2033-redux/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/metro-2033-redux/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/metro-2033-redux/home",
-    "startDate": "23-12-2020",
-    "endDate": "24-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-tropico5-haemimontgames-ic1-400x224-553842229.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/tropico-5/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/tropico-5/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/tropico-5/home",
+    "startDate": "24-12-2020",
+    "endDate": "25-12-2020"
   },
   {
     "nameEN": "Sludge Life",
