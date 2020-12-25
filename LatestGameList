@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Tropico 5》",
-    "nameSC": "《Tropico 5》",
-    "nameTC": "《Tropico 5》",
-    "descEN": "Return to the remote island nation of Tropico in the next installment of the critically acclaimed and hugely popular ‘dictator sim’ series. Expand your Dynasty’s reign from the early colonial period to beyond the 21st Century.",
-    "descSC": "在大受好评并广受欢迎的 "模拟独裁者" 系列的下一作中，重回偏远岛国 Tropico。扩张你的王朝的统治，从殖民时期早期到 21 世纪及之后。",
-    "descTC": "重溫備受讚譽且廣受喜愛的獨裁者模擬系列，擔任天堂島（Tropico）新一任的統治者。從早期的殖民時期到 21 世紀，持續擴張你的王朝統治。",
+    "nameEN": "Inside",
+    "nameSC": "Inside",
+    "nameTC": "Inside",
+    "descEN": "Hunted and alone, a boy finds himself drawn into the center of a dark project.",
+    "descSC": "一个男孩发觉自己陷入某个暗黑计划之中，独自一人，遭受追捕。",
+    "descTC": "獨身一人，遭受獵捕的男孩發現自己身陷黑暗計畫的中心。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-tropico5-haemimontgames-ic1-400x224-553842229.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/tropico-5/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/tropico-5/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/tropico-5/home",
-    "startDate": "24-12-2020",
-    "endDate": "25-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmarigold%2Fhome%2FLIMBO_LOGO_NEW-6054x1989-71316993e8d4c560c9cfbc8da5a1788d01087912.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/inside/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/inside/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/inside/home",
+    "startDate": "25-12-2020",
+    "endDate": "26-12-2020"
   },
   {
     "nameEN": "Blackout Z: Slaughterhouse Edition",
