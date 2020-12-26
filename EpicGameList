@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "Inside",
-    "nameSC": "Inside",
-    "nameTC": "Inside",
-    "descEN": "Hunted and alone, a boy finds himself drawn into the center of a dark project.",
-    "descSC": "一个男孩发觉自己陷入某个暗黑计划之中，独自一人，遭受追捕。",
-    "descTC": "獨身一人，遭受獵捕的男孩發現自己身陷黑暗計畫的中心。",
+    "nameEN": "My Time At Portia",
+    "nameSC": "My Time At Portia",
+    "nameTC": "My Time At Portia",
+    "descEN": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!.",
+    "descSC": "在迷人的波西亚小镇开始新的生活！完成订单、种植庄稼、饲养动物，在这片灭世后重新复苏的土地上，结交当地古怪的居民们，让你父亲疏于照料的工坊重现往日的辉煌！",
+    "descTC": "在迷人的 Portia 小鎮中展開你的新生活！透過完成委託、種植農作物、養殖動物以及和這個迷人末日大地上的古怪居民成為好友，好讓您父親那被棄置的工作坊恢復往日榮光！",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmarigold%2Fhome%2FLIMBO_LOGO_NEW-6054x1989-71316993e8d4c560c9cfbc8da5a1788d01087912.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/inside/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/inside/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/inside/home",
-    "startDate": "25-12-2020",
-    "endDate": "26-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_LogoColor-1620x655-c803997d139aafa0168e92da11dbae4a6b2938a0.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/my-time-at-portia/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/my-time-at-portia/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/my-time-at-portia/home",
+    "startDate": "27-12-2020",
+    "endDate": "28-12-2020"
   },
   {
     "nameEN": "Sludge Life",
