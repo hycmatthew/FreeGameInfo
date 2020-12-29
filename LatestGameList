@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "My Time At Portia",
-    "nameSC": "My Time At Portia",
-    "nameTC": "My Time At Portia",
-    "descEN": "Start a new life in the enchanting town of Portia! Restore your Pa's neglected workshop to its former glory by fulfilling commissions, growing crops, raising animals, and befriending the quirky inhabitants of this charming post-apocalyptic land!.",
-    "descSC": "在迷人的波西亚小镇开始新的生活！完成订单、种植庄稼、饲养动物，在这片灭世后重新复苏的土地上，结交当地古怪的居民们，让你父亲疏于照料的工坊重现往日的辉煌！",
-    "descTC": "在迷人的 Portia 小鎮中展開你的新生活！透過完成委託、種植農作物、養殖動物以及和這個迷人末日大地上的古怪居民成為好友，好讓您父親那被棄置的工作坊恢復往日榮光！",
+    "nameEN": "《Stranded Deep》",
+    "nameSC": "《Stranded Deep》",
+    "nameTC": "《Stranded Deep》",
+    "descEN": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+    "descSC": "扮演一位被困在某太平洋岛屿上的飞机失事幸存者。面对一些最为性命攸关的场景，其将为每一次游玩带来不同的体验。收集。探索。生存。",
+    "descTC": "扮演墜機事故的倖存者，在太平洋海中孤立無援。面對極可能致死的險境，每次遊玩都會形成不同體驗。收集物資。探索環境。活下去。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcobra%2FMyTimeAtPortia_LogoColor-1620x655-c803997d139aafa0168e92da11dbae4a6b2938a0.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/my-time-at-portia/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/my-time-at-portia/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/my-time-at-portia/home",
-    "startDate": "27-12-2020",
-    "endDate": "28-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-strandeddeep-beamteamgames-ic1-400x192-2b0819f9e7a5.png?h=270&amp;resize=1&amp;w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/stranded-deep/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/stranded-deep/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/stranded-deep/home",
+    "startDate": "29-12-2020",
+    "endDate": "30-12-2020"
   },
   {
     "nameEN": "Blackout Z: Slaughterhouse Edition",
