@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Stranded Deep》",
-    "nameSC": "《Stranded Deep》",
-    "nameTC": "《Stranded Deep》",
-    "descEN": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
-    "descSC": "扮演一位被困在某太平洋岛屿上的飞机失事幸存者。面对一些最为性命攸关的场景，其将为每一次游玩带来不同的体验。收集。探索。生存。",
-    "descTC": "扮演墜機事故的倖存者，在太平洋海中孤立無援。面對極可能致死的險境，每次遊玩都會形成不同體驗。收集物資。探索環境。活下去。",
+    "nameEN": "Solitairica",
+    "nameSC": "《Solitairica》",
+    "nameTC": "《Solitairica》",
+    "descEN": "Solitairica takes RPG combat and challenging roguelike progression to a fresh new place - the world of solitaire! Using a variety of magical items and spells, battle your way through a horde of ever-changing enemies and defeat the horrible Emperor Stuck!",
+    "descSC": "《Solitairica》将角色扮演战斗和富有挑战性的 rogue-like 游戏进程带到了一个全新场景：纸牌游戏（solitaire）的世界！使用各色魔导物品和魔咒，打倒成群不断变化的敌人，击败 Emperor Stuck！",
+    "descTC": "《Solitairica》結合了 RPG 戰鬥和富有挑戰性的 rogue-like 遊戲進展，是全新的卡牌接龍遊戲！使用各種魔法物品和法術、對抗不斷變化的敵人，並擊敗可怕的 Emperor Stuck！",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-strandeddeep-beamteamgames-ic1-400x192-2b0819f9e7a5.png?h=270&amp;resize=1&amp;w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/stranded-deep/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/stranded-deep/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/stranded-deep/home",
-    "startDate": "29-12-2020",
-    "endDate": "30-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/87495a78-741e-48a9-9543-28baef0fe798-1667x695-4eb0b2f3aef4.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/solitairica/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/solitairica/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/solitairica/home",
+    "startDate": "30-12-2020",
+    "endDate": "31-12-2020"
   },
   {
     "nameEN": "Blackout Z: Slaughterhouse Edition",
