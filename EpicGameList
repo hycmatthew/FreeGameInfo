@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "Solitairica",
-    "nameSC": "《Solitairica》",
-    "nameTC": "《Solitairica》",
-    "descEN": "Solitairica takes RPG combat and challenging roguelike progression to a fresh new place - the world of solitaire! Using a variety of magical items and spells, battle your way through a horde of ever-changing enemies and defeat the horrible Emperor Stuck!",
-    "descSC": "《Solitairica》将角色扮演战斗和富有挑战性的 rogue-like 游戏进程带到了一个全新场景：纸牌游戏（solitaire）的世界！使用各色魔导物品和魔咒，打倒成群不断变化的敌人，击败 Emperor Stuck！",
-    "descTC": "《Solitairica》結合了 RPG 戰鬥和富有挑戰性的 rogue-like 遊戲進展，是全新的卡牌接龍遊戲！使用各種魔法物品和法術、對抗不斷變化的敵人，並擊敗可怕的 Emperor Stuck！",
+    "nameEN": "Jurassic World Evolution",
+    "nameSC": "《侏罗纪世界：进化》",
+    "nameTC": "《侏儸紀世界：進化》",
+    "descEN": "Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.",
+    "descSC": "执掌传说中的死亡群岛，让神奇壮观而又危险无比的恐龙重现人间。在这个未知的世界里，生命总会找到自己的出路。而你的园区建设则要顾及到科学、娱乐，或是保安等方面的问题。",
+    "descTC": "維持 Muertes 群島秩序的責任現在在你手中，將奇妙、壯觀而危險的恐龍重現於世。在這個充滿不確定的世外桃源，各種生命都將設法突圍，你需要為科學、娛樂或安全進行建設。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/87495a78-741e-48a9-9543-28baef0fe798-1667x695-4eb0b2f3aef4.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/solitairica/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/solitairica/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/solitairica/home",
-    "startDate": "30-12-2020",
-    "endDate": "31-12-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-jurassicworldevolution-frontierdevelopments-ic1-1667x1667-554857998.png?h=270&amp;resize=1&amp;w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/jurassic-world-evolution/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/jurassic-world-evolution/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/jurassic-world-evolution/home",
+    "startDate": "1-1-2021",
+    "endDate": "2-1-2020"
   },
   {
     "nameEN": "Sludge Life",
