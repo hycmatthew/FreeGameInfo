@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "Jurassic World Evolution",
-    "nameSC": "《侏罗纪世界：进化》",
-    "nameTC": "《侏儸紀世界：進化》",
-    "descEN": "Take charge of operations on the legendary islands of the Muertes archipelago and bring the wonder, majesty and danger of dinosaurs to life. Build for Science, Entertainment or Security interests in an uncertain world where life always finds a way.",
-    "descSC": "执掌传说中的死亡群岛，让神奇壮观而又危险无比的恐龙重现人间。在这个未知的世界里，生命总会找到自己的出路。而你的园区建设则要顾及到科学、娱乐，或是保安等方面的问题。",
-    "descTC": "維持 Muertes 群島秩序的責任現在在你手中，將奇妙、壯觀而危險的恐龍重現於世。在這個充滿不確定的世外桃源，各種生命都將設法突圍，你需要為科學、娛樂或安全進行建設。",
+    "nameEN": "《Crying Suns》",
+    "nameSC": "《哀恸之日》",
+    "nameTC": "《Crying Suns》",
+    "descEN": "Crying Suns is a tactical rogue-lite that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. In this story rich experience, each successful run will uncover the truth about the Empire... and yourself as well.",
+    "descSC": "《哀恸之日》是一款类rogue-lite的战略游戏。你需要扮演太空舰队的指挥官，探索奇妙莫测的劫后帝国。游戏由故事情节驱动，剧情灵感源自经典科幻著作《沙丘》与《基地》。每当成功地完成目标之后，你都能知悉更多有关帝国……以及你自己的真相。",
+    "descTC": "《Crying Suns》是一款 rogue-lite 策略遊戲，你將扮演太空艦隊的指揮官，探索神秘的衰敗帝國。這款遊戲劇情豐富，每成功走完一輪，你都將更了解帝國……還有你自己。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-jurassicworldevolution-frontierdevelopments-ic1-1667x1667-554857998.png?h=270&amp;resize=1&amp;w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/jurassic-world-evolution/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/jurassic-world-evolution/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/jurassic-world-evolution/home",
-    "startDate": "1-1-2021",
-    "endDate": "2-1-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-cryingsunsisatacticalroguelite-altshift-ic1-400x225-528455333.png?h=270&amp;resize=1&amp;w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/crying-suns/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/crying-suns/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/crying-suns/home",
+    "startDate": "8-1-2021",
+    "endDate": "15-1-2020"
   },
   {
     "nameEN": "Sludge Life",
