@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Crying Suns》",
-    "nameSC": "《哀恸之日》",
-    "nameTC": "《Crying Suns》",
-    "descEN": "Crying Suns is a tactical rogue-lite that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. In this story rich experience, each successful run will uncover the truth about the Empire... and yourself as well.",
-    "descSC": "《哀恸之日》是一款类rogue-lite的战略游戏。你需要扮演太空舰队的指挥官，探索奇妙莫测的劫后帝国。游戏由故事情节驱动，剧情灵感源自经典科幻著作《沙丘》与《基地》。每当成功地完成目标之后，你都能知悉更多有关帝国……以及你自己的真相。",
-    "descTC": "《Crying Suns》是一款 rogue-lite 策略遊戲，你將扮演太空艦隊的指揮官，探索神秘的衰敗帝國。這款遊戲劇情豐富，每成功走完一輪，你都將更了解帝國……還有你自己。",
+    "nameEN": "STAR WARS™ Battlefront™ II: Celebration Edition",
+    "nameSC": "《星球大战™：前线™ II》庆典版",
+    "nameTC": "《星球大戰：戰場前線™ II》Celebration 版",
+    "descEN": "Put your mastery of the blaster, lightsaber, and the Force to the test online and offline in STAR WARS™ Battlefront™ II: Celebration Edition",
+    "descSC": "在《星球大战™：前线™ II》庆典版在线及离线游戏模式中，测试您对爆能枪、光剑和原力的掌握情况。",
+    "descTC": "你對爆能槍、光劍和原力的掌握，將在《星球大戰：戰場前線™ II》Celebration 版的線上與離線模式中接受考驗。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-cryingsunsisatacticalroguelite-altshift-ic1-400x225-528455333.png?h=270&amp;resize=1&amp;w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/crying-suns/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/crying-suns/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/crying-suns/home",
-    "startDate": "8-1-2021",
-    "endDate": "15-1-2020"
+    "imagePath": "https://cdn2.unrealengine.com/egs-starwarsbattlefrontiicelebrationedition-dice-g1a-01-1920x1080-87971829e831.jpg?h=480&resize=1&w=854",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/star-wars-battlefront-2/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/star-wars-battlefront-2/homee",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/star-wars-battlefront-2/home",
+    "startDate": "16-1-2021",
+    "endDate": "22-1-2021"
   },
   {
     "nameEN": "Blackout Z: Slaughterhouse Edition",
