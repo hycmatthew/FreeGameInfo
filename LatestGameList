@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "STAR WARS™ Battlefront™ II: Celebration Edition",
-    "nameSC": "《星球大战™：前线™ II》庆典版",
-    "nameTC": "《星球大戰：戰場前線™ II》Celebration 版",
-    "descEN": "Put your mastery of the blaster, lightsaber, and the Force to the test online and offline in STAR WARS™ Battlefront™ II: Celebration Edition",
-    "descSC": "在《星球大战™：前线™ II》庆典版在线及离线游戏模式中，测试您对爆能枪、光剑和原力的掌握情况。",
-    "descTC": "你對爆能槍、光劍和原力的掌握，將在《星球大戰：戰場前線™ II》Celebration 版的線上與離線模式中接受考驗。",
+    "nameEN": "《Galactic Civilizations III》",
+    "nameSC": "《Galactic Civilizations III》",
+    "nameTC": "《Galactic Civilizations III》",
+    "descEN": "Build a civilization that will stand the test of time! Choose from dozens of unique races and make a name for yourself across the galaxy through diplomacy, espionage, technological advances, and more.",
+    "descSC": "建立一个经得起时间考验的文明！从几十个独特的种族中选择，并通过外交、间谍活动、技术进步等，在银河系中为自己扬名立万。",
+    "descTC": "建立能經受時間考驗的文明！從數十種獨特種族中選擇並遊玩，藉由外交、諜報活動、科技進展以及更多其他遊戲抉擇，在銀河間宣揚聲威。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-starwarsbattlefrontiicelebrationedition-dice-g1a-01-1920x1080-87971829e831.jpg?h=480&resize=1&w=854",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/star-wars-battlefront-2/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/star-wars-battlefront-2/homee",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/star-wars-battlefront-2/home",
-    "startDate": "16-1-2021",
-    "endDate": "22-1-2021"
+    "imagePath": "https://cdn2.unrealengine.com/egs-galacticcivilizationsiiicoreedition-stardockentertainment-ic1-200x200-bc25f6951e38.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/galactic-civilizations-iii/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/galactic-civilizations-iii/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/galactic-civilizations-iii/home",
+    "startDate": "23-1-2021",
+    "endDate": "29-1-2021"
   },
   {
     "nameEN": "Sludge Life",
