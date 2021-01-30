@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Galactic Civilizations III》",
-    "nameSC": "《Galactic Civilizations III》",
-    "nameTC": "《Galactic Civilizations III》",
-    "descEN": "Build a civilization that will stand the test of time! Choose from dozens of unique races and make a name for yourself across the galaxy through diplomacy, espionage, technological advances, and more.",
-    "descSC": "建立一个经得起时间考验的文明！从几十个独特的种族中选择，并通过外交、间谍活动、技术进步等，在银河系中为自己扬名立万。",
-    "descTC": "建立能經受時間考驗的文明！從數十種獨特種族中選擇並遊玩，藉由外交、諜報活動、科技進展以及更多其他遊戲抉擇，在銀河間宣揚聲威。",
+    "nameEN": "Dandara: Trials of Fear Edition",
+    "nameSC": "Dandara: Trials of Fear Edition",
+    "nameTC": "Dandara: Trials of Fear Edition",
+    "descEN": "In a bizarre universe where the oppressed are on the brink of oblivion, Dandara has awoken to reshape the world. Welcome to a unique 2D metroidvania platformer full of mystical creatures and boundless exploration.",
+    "descSC": "在一个奇异的宇宙中，受压迫的人们正处于湮灭之际。丹达拉（Dandara）从沉睡中苏醒，将重塑这个世界。欢迎走进这个银河城风格的2D平台游戏，这里随处可见奇妙的生物，探索无穷无尽。",
+    "descTC": "在受壓制者幾乎要被遺忘的奇異宇宙，Dandara 已經覺醒，即將撥亂反正。歡迎來到獨一無二的 2D 類銀河戰士惡魔城橫向卷軸遊戲，充滿神秘的生物和無邊無際的探險。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-galacticcivilizationsiiicoreedition-stardockentertainment-ic1-200x200-bc25f6951e38.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/galactic-civilizations-iii/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/galactic-civilizations-iii/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/galactic-civilizations-iii/home",
-    "startDate": "23-1-2021",
-    "endDate": "29-1-2021"
+    "imagePath": "https://cdn2.unrealengine.com/dandara-tofe-logo-400x400-white-400x400-3041eb4d2269.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/dandara/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/dandara/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/dandara/home",
+    "startDate": "30-1-2021",
+    "endDate": "5-2-2021"
   },
   {
     "nameEN": "Sludge Life",
