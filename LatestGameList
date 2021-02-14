@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "Dandara: Trials of Fear Edition",
-    "nameSC": "Dandara: Trials of Fear Edition",
-    "nameTC": "Dandara: Trials of Fear Edition",
-    "descEN": "In a bizarre universe where the oppressed are on the brink of oblivion, Dandara has awoken to reshape the world. Welcome to a unique 2D metroidvania platformer full of mystical creatures and boundless exploration.",
-    "descSC": "在一个奇异的宇宙中，受压迫的人们正处于湮灭之际。丹达拉（Dandara）从沉睡中苏醒，将重塑这个世界。欢迎走进这个银河城风格的2D平台游戏，这里随处可见奇妙的生物，探索无穷无尽。",
-    "descTC": "在受壓制者幾乎要被遺忘的奇異宇宙，Dandara 已經覺醒，即將撥亂反正。歡迎來到獨一無二的 2D 類銀河戰士惡魔城橫向卷軸遊戲，充滿神秘的生物和無邊無際的探險。",
+    "nameEN": "《Halcyon 6: Starbase Commander》",
+    "nameSC": "《Halcyon 6: Starbase Commander》",
+    "nameTC": "《Halcyon 6: Starbase Commander》",
+    "descEN": "A retro space strategy RPG with base building, deep tactical combat, crew management and emergent storytelling. Halcyon 6: Lightspeed Edition is a massively enhanced version of the Award Winning indie strategy RPG, Halcyon 6.",
+    "descSC": "本作是一款带有基地建造、深度战略战斗、舰员管理以及沉浸式叙事的复古太空策略角色扮演游戏。《Halcyon 6: Lightspeed Edition》是荣誉加身独立制作角色扮演游戏《Halcyon 6》的大幅度强化版本。",
+    "descTC": "這是一款復古的太空策略 RPG 遊戲，具有基地建設、深度戰術戰鬥、組員管理和出乎意料的劇情等。《Halcyon 6: Lightspeed Edition》是榮獲獎項的獨立策略 RPG《Halcyon 6》的大幅度加強版。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-dandaratrialsoffearedition-longhathouse-g2-00-1920x1080-d4ff5dbe959e.jpg",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/product/dandara/home",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/dandara/home",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/dandara/home",
-    "startDate": "30-1-2021",
-    "endDate": "5-2-2021"
+    "imagePath": "https://cdn.epicbundle.com/wp-content/uploads/2021/02/free-game-halcyon-6.jpg",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/product/halcyon-6/home",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/product/halcyon-6/home",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/product/halcyon-6/home",
+    "startDate": "13-2-2021",
+    "endDate": "19-2-2021"
   },
   {
     "nameEN": "Sludge Life",
