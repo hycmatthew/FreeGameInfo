@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Sunless Sea》",
-    "nameSC": "《Sunless Sea》",
-    "nameTC": "《Sunless Sea》",
-    "descEN": "LOSE YOUR MIND. EAT YOUR CREW. DIE. Take the helm of your steamship and set sail for the unknown! Sunless Sea is a game of discovery, loneliness and frequent death, set in the award-winning Victorian Gothic universe of Fallen London.",
-    "descSC": "坠入癫狂。吃掉你的船员。然后死亡。执掌你的蒸汽船，向未知启航吧！《Sunless Sea》是一款以备受赞誉的堕落伦敦（《Fallen London》）之维多利亚哥特世界为背景的有关发现、孤独和频繁死亡的游戏。",
-    "descTC": "喪心病狂。大啖你的船員。死亡。掌握船舵，航向未知！《Sunless Sea》是一款充滿發現、孤獨及死亡的遊戲，背景設定於獲獎肯定的《Fallen London》歌德風維多利亞時空。",
+    "nameEN": "《Wargame: Red Dragon》",
+    "nameSC": "《Wargame: Red Dragon》",
+    "nameTC": "《Wargame: Red Dragon》",
+    "descEN": "The new reference in RTS at its best! The Wargame series returns to duty, larger, richer, and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.",
+    "descSC": "即时战略游戏中首屈一指的新内容！Wargame 系列游戏重新报到上场，这一次比以往规模更大、内容更丰富、更令人叹为观止！西方势力与共产集团在《Wargame: Red Dragon》中发生大规模冲突，这一次，你要参与其中。",
+    "descTC": "全新、最佳的即時戰略遊戲在此！《Wargame》以更大的規模、更艱鉅的任務、更豐富的內容，以及更壯濶的場面強勢回歸。投身《Wargame: Red Dragon》，介入西方勢力與共產主義集團之間的大規模衝突。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-sunlesssea-failbettergames-ic1-400x170-4a277bdcfa20.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/p/sunless-sea",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/sunless-sea",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/sunless-sea",
-    "startDate": "27-2-2021",
-    "endDate": "5-3-2021"
+    "imagePath": "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-ic1-400x187-349321086.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/p/wargame-red-dragon",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/wargame-red-dragon",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/wargame-red-dragon",
+    "startDate": "6-3-2021",
+    "endDate": "12-3-2021"
   },
   {
     "nameEN": "Sludge Life",
