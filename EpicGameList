@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Wargame: Red Dragon》",
-    "nameSC": "《Wargame: Red Dragon》",
-    "nameTC": "《Wargame: Red Dragon》",
-    "descEN": "The new reference in RTS at its best! The Wargame series returns to duty, larger, richer, and more spectacular than ever before. In Wargame Red Dragon, you are engaged in a large-scale conflict where Western forces clash against the Communist bloc.",
-    "descSC": "即时战略游戏中首屈一指的新内容！Wargame 系列游戏重新报到上场，这一次比以往规模更大、内容更丰富、更令人叹为观止！西方势力与共产集团在《Wargame: Red Dragon》中发生大规模冲突，这一次，你要参与其中。",
-    "descTC": "全新、最佳的即時戰略遊戲在此！《Wargame》以更大的規模、更艱鉅的任務、更豐富的內容，以及更壯濶的場面強勢回歸。投身《Wargame: Red Dragon》，介入西方勢力與共產主義集團之間的大規模衝突。",
+    "nameEN": "Surviving Mars",
+    "nameSC": "Surviving Mars",
+    "nameTC": "Surviving Mars",
+    "descEN": "The time has come to stake your claim on the Red Planet and build the first functioning human colonies on Mars! There will be challenges to overcome. Execute your strategy and improve your colony's chances of survival while unlocking the mysteries of this alien world.",
+    "descSC": "《火星求生》是一款科幻城市建造游戏，专注于在火星建立殖民地，并在此过程中努力求生。为殖民地选址前，要先选择宇航局以获得资源和财务支援。建造穹顶和基础设施，探索新的可能性，并利用无人机，解锁更多精心构思的方法，从而设计并扩展你的殖民地。自己种植食物，开采矿产，或是在一天辛苦的工作后，坐在酒吧旁休息。然而最重要的是，让你的殖民者活下去。身处陌生新星球，活命并非易事。",
+    "descTC": "《Surviving Mars》是款科幻城市建造遊戲，圍繞著殖民火星與延續人類歷史的過程。在決定要在火星何處建造殖民地之前，選擇你喜歡的太空贊助商來提供資源與資金援助。建造大穹頂與基礎設施、研究全新的可能和運用無人機器來形塑與擴張你的殖民地。種植培養作物、開採礦石然後在辛苦工作後到酒吧盡情放鬆娛樂。休閒之餘最重要的是要使你的殖民地熱絡起來。在這未知的星球上殖民可不是件簡單的事。",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-wargamereddragon-eugensystems-ic1-400x187-349321086.png?h=270&resize=1&w=480",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/p/wargame-red-dragon",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/wargame-red-dragon",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/wargame-red-dragon",
-    "startDate": "6-3-2021",
-    "endDate": "12-3-2021"
+    "imagePath": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fsurviving-mars%2Fhome%2FEGS_PDX_SurvivingMars_IC1_GameLogoRed-2560x844-a3b788af1422e4c4574c7c6be6464fbdb78d9251.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/p/surviving-mars",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/surviving-mars",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/surviving-mars",
+    "startDate": "13-3-2021",
+    "endDate": "18-3-2021"
   },
   {
     "nameEN": "Sludge Life",
