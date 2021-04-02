@@ -1,18 +1,18 @@
 [
   {
-    "nameEN": "《Creature in the Well》",
-    "nameSC": "《井中生物》",
-    "nameTC": "《Creature in the Well》",
-    "descEN": "As the last remaining BOT-C unit, venture deep into a desert mountain to restore power to an ancient facility, haunted by a desperate Creature. Uncover and upgrade powerful gear in order to free the city of Mirage from a deadly sandstorm.",
-    "descSC": "您作为最后幸存的 BOT-C 人员，要深入沙漠中的神秘山区去恢复古老设施的动力，那里被一个绝望的生物所困扰。发现并升级强大的装备，把幻影镇从一场致命的沙尘暴中解放出来。",
-    "descTC": "作為最後一支 BOT-C 部隊，深入一座位於沙漠的山丘，重新啟動一個被一隻狂暴巨怪佔據的遠古設施。發掘並升級強大裝備，拯救幻影城市免受沙漠風暴摧殘。",
+    "nameEN": "Tales of the Neon Sea",
+    "nameSC": "《Tales of the Neon Sea》",
+    "nameTC": "《迷霧偵探》",
+    "descEN": "Welcome to a world of intrigue and suspicion. Where humans and robots contend with escalating tensions and mutual distrust. And where gangster felines scheme their way to the top of the food chain. Welcome to the Tales of the Neon Sea!",
+    "descSC": "欢迎来到一个充满阴谋和猜疑的世界。在这里，人类和机器人要面对不断升级的紧张关系以及对相互的不信任。而猫科黑帮们则想尽办法，想让自己成为食物链的最高点。欢迎来到《Tales of the Neon Sea》的世界！",
+    "descTC": "歡迎來到迷人的懸疑世界。人類與機器人之間因為不斷升高的張力與互不信任而相互對抗。幫派分子利用狡猾計謀高踞食物鏈的頂端。歡迎遊玩《迷霧偵探》！",
     "platform": "Epic",
-    "imagePath": "https://cdn2.unrealengine.com/egs-creatureinthewell-flightschoolstudio-g2-00-1920x1080-a4abd3f25c95.jpg",
-    "gamePathEN": "https://www.epicgames.com/store/en-US/p/creature-in-the-well",
-    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/creature-in-the-well",
-    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/creature-in-the-well",
-    "startDate": "25-3-2021",
-    "endDate": "1-4-2021"
+    "imagePath": "https://cdn2.unrealengine.com/insertpic--728x300-f638f36ad0ac.png?h=270&resize=1&w=480",
+    "gamePathEN": "https://www.epicgames.com/store/en-US/p/tales-of-the-neon-sea",
+    "gamePathSC": "https://www.epicgames.com/store/zh-CN/p/tales-of-the-neon-sea",
+    "gamePathTC": "https://www.epicgames.com/store/zh-Hant/p/tales-of-the-neon-sea",
+    "startDate": "2-4-2021",
+    "endDate": "8-4-2021"
   },
   {
     "nameEN": "Sludge Life",
